@@ -1,0 +1,2 @@
+# Merhaba yazdır
+print("MERHABA")

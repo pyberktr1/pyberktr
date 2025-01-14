@@ -1,0 +1,2 @@
+# pyberktr
+ Python Kodlamanın Temelleri

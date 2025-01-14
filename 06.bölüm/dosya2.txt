@@ -1,0 +1,4 @@
+En basa satir ekleme 
+ satir yaziliyor.
+Bu yeni bir satirdir 
+bu daha baska bir yeni satirdir 
